@@ -1,9 +1,5 @@
 package work;
 
-//Cameron Hom
-//10/23/14
-//3340
-
 
 
 public class ProductionWorker extends Employee

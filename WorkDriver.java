@@ -3,7 +3,6 @@ package work;
 //10/26/14
 //3340
 
-import java.util.Scanner;
 
 public class WorkDriver 
 {

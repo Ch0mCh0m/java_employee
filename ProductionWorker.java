@@ -1,7 +1,10 @@
 package work;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 81e1a6aa66b541d9a3e0b92d3c12971b28f6478f
 
 
 public class ProductionWorker extends Employee
